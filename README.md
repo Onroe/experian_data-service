@@ -10,4 +10,4 @@
 * dataset folder
 
 ### Database
-* Mysql
+* Mysql. test.sql
